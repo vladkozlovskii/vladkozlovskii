@@ -2,6 +2,8 @@
 My name is Vlad Kozlovskiy  
 I work in marine ecology since 2008. Among other tasks I processed data on certain ecological groups, Set of methods: biodiversity indexes, similarities indexes, dimensionality reduction methods: MDS, PCA. I am interested in any kind of data processing and machine learning in general.
 
+- 🔭 I’m currently working on ecological modeling of marine fauna
+- 🌱 I’m currently learning various aspects of machine learning and their mathematical basis
 
 <!--
 **vladkozlovskii/vladkozlovskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
