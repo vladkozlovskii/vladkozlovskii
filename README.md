@@ -1,4 +1,3 @@
-### Hi there 
 My name is Vlad Kozlovskiy  
 I work in marine ecology since 2008. Among other tasks I processed data on certain ecological groups. Set of methods: biodiversity indexes, similarities indexes, dimensionality reduction methods: MDS, PCA. I am interested in any kind of data processing and machine learning in general. Also I am interested in GIS, spatial visualisation of data and computer vision. 
 
